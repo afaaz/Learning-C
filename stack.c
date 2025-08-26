@@ -45,6 +45,7 @@ int push(int data){
       printf("Could not insert data, Stack is full.\n");
    }
 }
+// this is simply
 
 /* Main function */
 int main(){
